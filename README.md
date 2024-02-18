@@ -10,7 +10,7 @@ While the outcome of my job application remains uncertain, the experience allowe
 The project took a sweet turn for me, prompting me to share it here.
 
 ## The problem
-Many Loop users don't use it daily; they reserve it for cinemas, concerts, and noisy nights. Carrying the loop everywhere becomes impractical, and its small size increases the chances of forgetting where it was last placed. This realization sparked the idea for a new accessory—***loop locate***. It is a carry case that can be called by its mobile application, emitting a sound to help locate it. The steps taken to prepare the prototype are detailed below.
+Many Loop users don't use it daily; they reserve it for cinemas, concerts, and noisy nights. Carrying the loop everywhere becomes impractical, and its small size increases the chances of forgetting where it was last placed. This realization sparked the idea for a new accessory—***loop locate***. It is a carry case that can be called by its mobile application, emitting a sound to help locate it. The timeline and the steps taken to prepare the prototype are detailed [here](#timeline-2024).
 
 
 <img src="./assets/originalCaseClose.png" width="150" height="auto">  <img src="./assets/OriginalCaseOpen.png" width="150" height="auto">  
