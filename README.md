@@ -101,5 +101,6 @@ I got my Black loop Quiet and the quality was unbelievably great. However the ca
 I ordered the black one due to the 3D print shop I work with, which only prints SLS models in black.  
 To proceed with measuring the dimensions for PCB and 3D design, I had to take the case apart.  
 
+<img src="./assets/loop.png" width="auto" height="150">  <img src="./assets/PCB1.png" width="auto" height="150">  <img src="./assets/PCB2.png" width="auto" height="150">  <img src="./assets/PCB3.png" width="auto" height="150">  
 
 
