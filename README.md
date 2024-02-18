@@ -124,3 +124,4 @@ I had to make some modifications to the original part:
 
 I designed it in SolidWorks and I ordered the SLS 3D print. 
 
+>***Current Status: Awaiting the 3D printed body and the PCB.***
