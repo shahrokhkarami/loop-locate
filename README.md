@@ -102,5 +102,25 @@ I ordered the black one due to the 3D print shop I work with, which only prints 
 To proceed with measuring the dimensions for PCB and 3D design, I had to take the case apart.  
 
 <img src="./assets/loop.png" width="auto" height="150">  <img src="./assets/PCB1.png" width="auto" height="150">  <img src="./assets/PCB2.png" width="auto" height="150">  <img src="./assets/PCB3.png" width="auto" height="150">  
+<sub>Note the PCB tickness should be 0.8mm to fit the 3D design.</sub>  
 
+I submitted an order on PCBWay, but due to the Chinese New Year holidays, it will take longer than usual to receive the PCB.
+
+>February 13th - 3D design
+
+I wish I had the rounded battery, it would make me able to increase the curving radius of the bottom and make it much more beautiful. But this was the fastest way to achieve the working prototype for me.  
+I had to make some modifications to the original part:
+ * Adding 6.5mm to the height 
+   * 3mm for battery
+   * 0.8mm for PCB
+   * 2.7mm for the tallest component on the PCB
+ * Three holes for sound
+ * Charging port opening 
+ * Stands for PCB
+
+<img src="./assets/3D4.png" width="auto" height="200">
+
+<img src="./assets/3D1.png" width="auto" height="75">  <img src="./assets/3D2.png" width="auto" height="75">  <img src="./assets/3D3.png" width="auto" height="75">  
+
+I designed it in SolidWorks and I ordered the SLS 3D print. 
 
