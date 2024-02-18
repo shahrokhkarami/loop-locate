@@ -65,7 +65,7 @@ I had two choices for scanning:
 
 Here is the result of power consumption in the scanning period. A 2Ω resistor in series with the power line used to monitor the current consumption.
 
-<img src="./assets/Passive.png" width="450" height="auto">  <img src="./assets/Active.png" width="450" height="auto">  
+<img src="./assets/Passive.png" width="45%" height="auto">  <img src="./assets/Active.png" width="45%" height="auto">  
 <sub>Waveforms had been captured using my Hantek oscilloscope</sub>  
 <sub>The BLE communication tests have been done with Nordic Semiconductor’s [nRF Connect](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp&pcampaignid=web_share) application</sub>
 
@@ -94,5 +94,12 @@ I finalized the iOS application and did a little UI improvement.
 >February 11th - Apple App Store
 
 I submitted the required images and documents to publish the prototype's application on the App Store. A few days later, I received an email stating that, to approve the application, I should record a video demonstrating the working product using the application. They didn't accept footage with the DevKit, so the process was paused until I completed the prototype.
+
+>February 12th - PCB
+
+I got my Black loop Quiet and the quality was unbelievably great. However the case was white, not black!  
+I ordered the black one due to the 3D print shop I work with, which only prints SLS models in black.  
+To proceed with measuring the dimensions for PCB and 3D design, I had to take the case apart.  
+
 
 
