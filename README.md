@@ -52,7 +52,7 @@ I started to write down the idea and made decisions about how to make a fast but
 
 >February 6th - Order
 
-Since there was no detailed documention or dimensions of the loop products, I ordered two [loop earplugs - Quiet](https://www.loopearplugs.com/products/quiet) to get the dimensions from. 
+Since there was no detailed documentation or dimensions of the loop cases, I ordered two [loop earplugs - Quiet](https://www.loopearplugs.com/products/quiet) to measure the dimensions from.
 
 >February 7th - Electronics
 
@@ -102,7 +102,7 @@ I ordered the black one due to the 3D print shop I work with, which only prints 
 To proceed with measuring the dimensions for PCB and 3D design, I had to take the case apart.  
 
 <img src="./assets/loop.png" width="auto" height="150">  <img src="./assets/PCB1.png" width="auto" height="150">  <img src="./assets/PCB2.png" width="auto" height="150">  <img src="./assets/PCB3.png" width="auto" height="150">  
-<sub>Note the PCB tickness should be 0.8mm to fit the 3D design.</sub>  
+<sub>Note the PCB thickness should be 0.8mm to fit the 3D design.</sub>  
 
 I submitted an order on PCBWay, but due to the Chinese New Year holidays, it will take longer than usual to receive the PCB.
 
