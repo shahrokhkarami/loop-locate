@@ -124,4 +124,11 @@ I had to make some modifications to the original part:
 
 I designed it in SolidWorks and I ordered the SLS 3D print. 
 
->***Current Status: Awaiting the 3D printed body and the PCB.***
+>February 21th - 3D printed body
+
+I got the 3D printed part of body today.
+
+<img src="./assets/SLS1.png" width="auto" height="150">  <img src="./assets/SLS2.png" width="auto" height="150">  <img src="./assets/SLS3.png" width="auto" height="150">  
+<img src="./assets/SLS6.png" width="auto" height="150">  <img src="./assets/SLS7.png" width="auto" height="150">  <img src="./assets/SLS4.png" width="auto" height="150">  
+
+>***Current Status: Awaiting the PCB.***
