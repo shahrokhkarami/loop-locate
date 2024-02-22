@@ -131,4 +131,11 @@ I got the 3D printed part of body today.
 <img src="./assets/SLS1.png" width="auto" height="150">  <img src="./assets/SLS2.png" width="auto" height="150">  <img src="./assets/SLS3.png" width="auto" height="150">  
 <img src="./assets/SLS6.png" width="auto" height="150">  <img src="./assets/SLS7.png" width="auto" height="150">  <img src="./assets/SLS4.png" width="auto" height="150">  
 
+>February 22th - 3D design
+
+The difference in curve radius between the top and bottom parts and also the colors doesn't look good together. Since I'm still waiting for the PCB, I have time to order another 3D-printed part, so I've designed the top side too.
+
+<img src="./assets/3Dboth1.png" width="auto" height="150">  <img src="./assets/3Dboth2.png" width="auto" height="150">  <img src="./assets/3Dboth3.png" width="auto" height="150">  
+
+
 >***Current Status: Awaiting the PCB.***
