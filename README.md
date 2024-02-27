@@ -137,5 +137,17 @@ The difference in curve radius between the top and bottom parts and also the col
 
 <img src="./assets/3Dboth1.png" width="auto" height="150">  <img src="./assets/3Dboth2.png" width="auto" height="150">  <img src="./assets/3Dboth3.png" width="auto" height="150">  
 
+>February 27th - Assembling
 
->***Current Status: Awaiting the PCB.***
+I got both the 3D printed parts and PCB today and started to putting them together.
+
+<img src="./assets/PCB_.png" width="auto" height="150"> <img src="./assets/PCB_1.png" width="auto" height="150"> <img src="./assets/PCB_2.png" width="auto" height="150"> 
+
+<img src="./assets/Body.png" width="auto" height="150"> <img src="./assets/Body-PCB.png" width="auto" height="150"> <img src="./assets/full.png" width="auto" height="150"> 
+
+<img src="./assets/Closed.png" width="auto" height="150"> <img src="./assets/Back.png" width="auto" height="150"> 
+
+Everything worked well and was ready to record the video for apple app store.
+[Here](https://drive.google.com/file/d/1b1V_XANwa1eLE-llirHkk3rfKeZi7E60/view?usp=share_link) is the simple video that I sent to apple, hope they accept it and publish the application.
+
+>***Current Status: Awaiting the Application approval.***
