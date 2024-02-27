@@ -160,6 +160,6 @@ Now it is packing time. Some corel draw design and laser cutting.
 
 <img src="./assets/corel.png" width="auto" height="150"> <img src="./assets/laser1.png" width="auto" height="150"> <img src="./assets/laser2.png" width="auto" height="150"> 
 
-<img src="./assets/laser2.png" width="auto" height="150"> <img src="./assets/laser3.png" width="auto" height="150"> <img src="./assets/box.png" width="auto" height="150"> 
+<img src="./assets/laser3.png" width="auto" height="150"> <img src="./assets/box.png" width="auto" height="150"> 
 
 >***Current Status: Awaiting the Application approval.***
