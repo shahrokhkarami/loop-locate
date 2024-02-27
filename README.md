@@ -143,7 +143,7 @@ I got both the 3D printed parts and PCB today and started to putting them togeth
 
 <img src="./assets/PCB_.png" width="auto" height="150"> <img src="./assets/PCB_1.png" width="auto" height="150"> <img src="./assets/PCB_2.png" width="auto" height="150"> 
 
-<img src="./assets/Body.png" width="auto" height="150"> <img src="./assets/Body-PCB.png" width="auto" height="150"> <img src="./assets/full.png" width="auto" height="150"> 
+<img src="./assets/Body_.png" width="auto" height="150"> <img src="./assets/Body-PCB.png" width="auto" height="150"> <img src="./assets/full.png" width="auto" height="150"> 
 
 <img src="./assets/Closed.png" width="auto" height="150"> <img src="./assets/Back.png" width="auto" height="150"> 
 
