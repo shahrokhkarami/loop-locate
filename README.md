@@ -143,11 +143,23 @@ I got both the 3D printed parts and PCB today and started to putting them togeth
 
 <img src="./assets/PCB_.png" width="auto" height="150"> <img src="./assets/PCB_1.png" width="auto" height="150"> <img src="./assets/PCB_2.png" width="auto" height="150"> 
 
+* The firmware uploaded successfully
+* SoC input (pairing button) and output (buzzer) are working properly
+* Charging circuit and its indicator are good
+
 <img src="./assets/Body_.png" width="auto" height="150"> <img src="./assets/Body-PCB.png" width="auto" height="150"> <img src="./assets/full.png" width="auto" height="150"> 
 
 <img src="./assets/Closed.png" width="auto" height="150"> <img src="./assets/Back.png" width="auto" height="150"> 
 
+* Charging port position is match well with the body
+
 Everything worked well and was ready to record the video for apple app store.
 [Here](https://drive.google.com/file/d/1b1V_XANwa1eLE-llirHkk3rfKeZi7E60/view?usp=share_link) is the simple video that I sent to apple, hope they accept it and publish the application.
+
+Now it is packing time. Some corel draw design and laser cutting.
+
+<img src="./assets/corel.png" width="auto" height="150"> <img src="./assets/laser1.png" width="auto" height="150"> <img src="./assets/laser2.png" width="auto" height="150"> 
+
+<img src="./assets/laser2.png" width="auto" height="150"> <img src="./assets/laser3.png" width="auto" height="150"> <img src="./assets/box.png" width="auto" height="150"> 
 
 >***Current Status: Awaiting the Application approval.***
