@@ -162,4 +162,14 @@ Now it is packing time. Some corel draw design and laser cutting.
 
 <img src="./assets/laser3.png" width="auto" height="150"> <img src="./assets/box.png" width="auto" height="150"> 
 
->***Current Status: Awaiting the Application approval.***
+>February 28th - Finalizing 
+
+Apple approved the application.
+
+I created some labels for the box and made it ready to send.
+
+<img src="./assets/labled1.png" width="auto" height="200"> <img src="./assets/labled2.png" width="auto" height="200"> <img src="./assets/labled3.png" width="auto" height="200"> 
+
+<img src="./assets/labled4.png" width="auto" height="200"> <img src="./assets/labled5.png" width="auto" height="200"> 
+
+>The END ;)
