@@ -172,4 +172,7 @@ I created some labels for the box and made it ready to send.
 
 <img src="./assets/labled4.png" width="auto" height="200"> <img src="./assets/labled5.png" width="auto" height="200"> 
 
+I sent it to Belgium by DHL and it'll be there "March, 01 2024 - By End of Day" as the DHL website said.
+I hope they like it!
+
 >The END ;)
